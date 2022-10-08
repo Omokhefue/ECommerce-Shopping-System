@@ -1,2 +1,2 @@
 # ECommerce-Shopping-System
-Functional shopping system of an ecommerce site
+Functional shopping cart system of an ecommerce site
